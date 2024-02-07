@@ -1,5 +1,18 @@
-### Hi there 👋
+#Hello Folks 👋
+I'm Megah Juliardi Sondara Wicaksana
 
+<p align="left">
+<a href="https://github.com/raulmahya123">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raulmahya123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raulmahya123&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+🖥️ My account on [Google Developer](https://g.dev/juliardimegah)
+<br>
+🖥️ My account on [Google Developer Student Club](https://gdsc.community.dev/u/mc8qtw/#/about)
+<br>
+🖥️ My LinkedIn [account](https://linkedin.com/in/juliardimegah)
 <!--
 **juliardimegah/juliardimegah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
