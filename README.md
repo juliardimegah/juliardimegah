@@ -1,10 +1,11 @@
-#Hello Folks 👋
+<h1>Hello Folks 👋</h1>
+<br>
 I'm Megah Juliardi Sondara Wicaksana
 
 <p align="left">
-<a href="https://github.com/raulmahya123">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raulmahya123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raulmahya123&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/juliardimegah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juliardimegah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliardimegah&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
